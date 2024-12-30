@@ -1,1 +1,9 @@
 invisible.cpp
+file.log
+hidden.txt
+
+*.db
+*.log
+
+target/
+bin/
